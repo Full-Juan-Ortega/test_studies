@@ -1,3 +1,0 @@
-1. hacer el diagrama.
-2. importar sql.
-3. cargar sql , 4 conectarlo a la bd , eliminar la que ya esta y luego ejecutar el script
